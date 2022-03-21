@@ -11,7 +11,7 @@
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung` -- `done`
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode` -- `done`
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode` -- `done`
-- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode` -- `done`
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
